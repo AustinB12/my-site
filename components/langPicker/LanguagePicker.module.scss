@@ -1,0 +1,22 @@
+.langPickerContainer {
+  padding: 5px;
+
+  .langPickerSvg:hover {
+    cursor: pointer;
+    animation-name: grow;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+    path {
+      fill: white;
+    }
+  }
+}
+
+@keyframes grow {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}

@@ -1,0 +1,6 @@
+- [ ] Header Component
+- [ ] Footer Component
+- [ ] Introductory Component
+- [ ] New Favicon
+- [ ] Internationilization
+- [ ] Tutoring Page
